@@ -1,4 +1,4 @@
-# sum-phamtuyetmai
+# khoiht-tea-oss project
 setpass
 luuhongtuan
 giathianh
