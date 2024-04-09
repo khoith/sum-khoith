@@ -1,5 +1,5 @@
 {
-  "name": "sum-phamtuyetmai",
+  "name": "sum-khoith",
   "version": "1.0.4",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
@@ -35,9 +35,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/phamtuyetmai/sum-phamtuyetmai"
+    "url": "https://github.com/khoith/sum-khoith.git"
   },
-  "homepage": "twitter.com/MTuyet38796",
+  "homepage": "https://twitter.com/KhoiTruong19",
   "keywords": [
     "sum",
     "add",
